@@ -1,0 +1,27 @@
+
+h1 {
+  background-color: burlywood;
+  width: max-content;
+}
+
+a{
+  font-size: 30px;
+}
+
+a:hover{
+    background-color: cadetblue;
+}
+
+.heading{
+    background-color: yellow;
+    width:100%;
+    text-align: center;
+}
+
+.home{
+    font-size: 25px;
+}
+.heading2{
+  color:blue;
+}
+
